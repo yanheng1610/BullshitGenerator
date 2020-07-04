@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yanheng:helloword-spring-boot-starter:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/app/Maven/MavenRepository_yanheng/maven_jar/com/yanheng/helloword-spring-boot-starter/1.0-SNAPSHOT/helloword-spring-boot-starter-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/app/Maven/MavenRepository_yanheng/maven_jar/com/yanheng/helloword-spring-boot-starter/1.0-SNAPSHOT/helloword-spring-boot-starter-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/app/Maven/MavenRepository_yanheng/maven_jar/com/yanheng/helloword-spring-boot-starter/1.0-SNAPSHOT/helloword-spring-boot-starter-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
